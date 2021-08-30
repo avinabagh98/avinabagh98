@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @avinabagh98
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Numpy Module
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me avinabaghosh2017@gmail.com
 
 <!---
 avinabagh98/avinabagh98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
