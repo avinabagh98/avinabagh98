@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @avinabagh98
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Data Science & Machine Learning.
 - 🌱 I’m currently concreating my python knowledge.
 
 <!---
