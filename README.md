@@ -1,4 +1,5 @@
 - Hi, I’m Avinaba Ghosh.
+- Working as Web App Developper.
 - I’m interested in Data Science & Machine Learning.
 
 <!---
