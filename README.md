@@ -1,5 +1,5 @@
 - Hi, I’m Avinaba Ghosh.
-- Working as Web App Developer & React Native Developer.
+- Working as software developer
 - I’m an Ex-Data Analyst & Btech graduate.
 
 <!---
